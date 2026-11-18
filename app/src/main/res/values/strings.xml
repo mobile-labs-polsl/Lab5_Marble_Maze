@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Marble Maze</string>
+    <string name="level_title">Level %1$d/%2$d · %3$s</string>
+    <string name="time_value">Time %1$s</string>
+    <string name="hits_value">Hits %1$d</string>
+    <string name="best_value">Best %1$s</string>
+    <string name="restart">Restart</string>
+    <string name="calibrate">Calibrate</string>
+    <string name="next_level">Next</string>
+    <string name="sound">Sound</string>
+    <string name="vibration">Vibration</string>
+    <string name="status_ready">Tilt the phone to start</string>
+    <string name="status_fell">Oops! You fell into a hole</string>
+    <string name="status_won">Goal reached!</string>
+    <string name="status_record">New record!</string>
+    <string name="calibrated">Current position is now \"flat\"</string>
+    <string name="no_sensor">No accelerometer/gravity sensor on this device</string>
+</resources>
